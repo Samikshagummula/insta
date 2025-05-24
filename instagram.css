@@ -1,0 +1,217 @@
+.container1 {
+    width: 400px;
+    height: 700px;
+    border: 2px solid black;
+    margin-left: 30%;
+    border-radius: 30px;
+    background-image: url("./s2.jpg");
+    background-size: cover;
+    position: fixed;
+    overflow: scroll;
+    scrollbar-width: none;
+
+}
+
+.container {
+    width: 400px;
+    height: 50px;
+    background-color: palevioletred;
+    border-top-left-radius: 28px;
+    border-top-right-radius: 28px;
+    position: fixed;
+    top: 10px;
+    z-index: 8;
+    display: inline-block;
+
+}
+
+.bi {
+    padding: 5px;
+    font-size: 40px;
+}
+
+i {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    font-size: 37px;
+}
+
+.bi1 {
+    padding: 30px;
+    font-size: 27px;
+}
+
+.bi2 {
+    font-size: 31px;
+}
+
+.right {
+    padding-left: 10px;
+    font-size: 20px;
+    background-color: burlywood;
+    margin-left: 180px;
+    border-radius: 20px;
+
+    align-items: flex-end;
+    display: inline-block;
+    margin-top: 58px;
+
+}
+
+span {
+    margin-left: 80PX;
+}
+
+p {
+    display: inline-block;
+}
+
+
+
+.container2 {
+    margin-bottom: 15px;
+    width: 400px;
+    height: 55px;
+    background-color: palegreen;
+    border-radius: 0px 0px 25px 25px;
+    bottom: 6px;
+    position: fixed;
+    /* z-index: 8; */
+    display: inline-block;
+
+}
+
+.bi3 {
+    font-size: 27px;
+}
+
+.left {
+    padding-left: 12px;
+    font-size: 20px;
+    background-color: grey;
+    margin-right: 180px;
+    border-radius: 25px;
+    align-self: flex-start;
+
+
+}
+
+.l1 {
+    margin-top: 0px;
+    width: 130px;
+    height: 50px;
+}
+
+.l2 {
+    margin-top: 0px;
+}
+
+.l3 {
+    margin-top: 0px;
+}
+
+.l4 {
+    margin-top: 0px;
+}
+
+.l5 {
+    margin-top: 0px;
+}
+.l6 {
+    margin-top: 0px;
+    position: relative;
+    top:-25px;
+}
+
+.l7 {
+    margin-top: 0px;
+}
+
+.l8 {
+    margin-top: 0px;
+}
+
+.r3 {
+    margin-top: 0px;
+}
+
+.r4 {
+    margin-top: 0px;
+    position: relative;
+    top: 12px;
+    z-index: -1;
+}
+
+.r5 {
+    margin-top: 0px;
+}
+
+
+.r2 {
+    margin-top: 0px;
+}
+
+.r6 {
+    margin-top: 0px;
+   
+    padding-left: 10px;
+    font-size: 20px;
+    background-color: burlywood;
+    margin-left: 180px;
+    border-radius: 20px;
+    position: relative;
+    top: 18px;
+    left: 120px;
+    display: inline-block;
+    margin-top: 58px;
+    top: -40px;
+
+}
+
+.r7 {
+    margin-top: 0px;
+    position: relative;
+    left: 130px;
+}
+
+
+.r8{
+    margin-top: 0px;
+    position: relative;
+    left: 100px;
+}
+
+.r9 {
+    margin-top: 0px;
+}
+
+
+
+
+/* .time {
+    background-color: red;
+    margin-left: 500px;
+} */
+
+.t1 {
+    /* width: 2%; */
+    font-size: 12px;
+    margin-top: 2px;
+    /* display: inline-block; */
+}
+
+.h1 {
+    width: 600px;
+    height: 70px;
+}
+
+.button {
+    width: 30%;
+    background-color: red;
+    margin-left: 33%;
+    position: sticky;
+    top: 50px;
+    text-align: center;
+    border-radius: 5px;
+}
